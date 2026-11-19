@@ -17,6 +17,7 @@ A curated list of AI-powered image generation and editing tools, organized by us
 - **[Crevisto Image Upscaler](https://crevisto.com/tools/image-upscaler)** — upscale images without quality loss
 - **[Crevisto Object Remover](https://crevisto.com/tools/object-remover)** — remove unwanted objects
 - **[Crevisto Real Estate Enhancer](https://crevisto.com/tools/real-estate-enhancer)** — property photo enhancement
+- **[BackGone](https://backgone.com)** — browser-based AI background remover with transparent PNG, bulk batches, passport-photo backgrounds and animated GIFs.
 
 ## Creative & Fun
 
